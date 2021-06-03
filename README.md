@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashanth-404
 - 👀 I’m interested in robotics, computer vision and digital art
-- 🌱 I’m currently learning robot mechanics(using matlab) and human anatomy
-- 💞️ I’m looking to collaborate on my digital art projects
+- 🌱 I’m currently learning robot mechanics(using matlab)
+- 💞️ I’m looking to collaborate on my robotics projects
 - 📫 How to reach me...uhhhh....mail me ig (jonnaprashanth2@gmail.com)
 
 <!---
