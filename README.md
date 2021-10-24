@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @prashanth-404
-- 👀 I’m interested in robotics, computer vision and digital art
-- 🌱 I’m currently learning robot mechanics and Blender
+- 👋 Hi, I’m prashanth jonna
+- 👀 I’m interested in embedded systems, vlsi and robotics
 
 <!---
 prashanth-404/prashanth-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
