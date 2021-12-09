@@ -1,4 +1,4 @@
-- 👋 Hi, I’m prashanth jonna
+- 👋 Hi, I’m prashanth
 - 👀 I’m interested in embedded systems, vlsi and robotics
 
 <!---
